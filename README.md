@@ -17,10 +17,10 @@ O site foi desenvolvido utilizando as seguintes tecnologias:
 ## Como Contribuir
 Para contribuir com o projeto, siga os passos abaixo:
 1. Clone o repositório utilizando Git:
-[git clone] (url-do-repositório)
+[git clone](https://larisloppes.github.io/relatoriohtml)
 
-2. Faça suas alterações e teste-as localmente.
-3. Envie um pull request com uma descrição clara das modificações propostas.
+3. Faça suas alterações e teste-as localmente.
+4. Envie um pull request com uma descrição clara das modificações propostas.
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
